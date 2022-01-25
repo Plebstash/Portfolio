@@ -1,5 +1,9 @@
-.deontes-background{
-    background-color: teal;
+div{
+    background: teal;
     font-family: Arial, Helvetica, sans-serif;
-    color:ghostwhite
+    color:ghostwhite;
+}
+.time-warp{
+    font-size: 16px;
+
 }
